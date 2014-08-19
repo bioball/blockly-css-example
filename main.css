@@ -1,0 +1,9 @@
+.main {
+  height: 500px;
+  width: 500px;
+}
+
+button {
+  border-radius: 4px;
+  padding: 2em;
+}
