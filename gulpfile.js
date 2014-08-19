@@ -16,6 +16,7 @@ var blocklyCssStringify = function(file, callback){
     "(function(){",
     "  goog.require('goog.cssom');",
     "  goog.require('Blockly.Css');",
+    "",
     "  var cssContent = [",
     css.join(',\n'),
     "  ].join('\\n');",

@@ -1,4 +1,4 @@
-How to turn SASS into blockly CSS
+How to turn CSS into blockly CSS
 
 1. `brew install node`
 2. `npm install -g gulp`
